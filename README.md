@@ -9,7 +9,7 @@ Automated scripts that extract a list of all countries in order of their GDPs in
 
 - <b>Pandas</b> 
 - <b>NumPy</b>
-- <b><SQLite3/b>
+- <b>SQLite3</b>
 - <b>datetime</b>
 
 <h2>Environments Used </h2>
