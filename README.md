@@ -14,5 +14,5 @@ Automated scripts that extract a list of all countries in order of their GDPs in
 
 <h2>Environments Used </h2>
 
-- <b>Visual Studio Code</b> (21H2)
+- <b>Visual Studio Code</b> 
 
