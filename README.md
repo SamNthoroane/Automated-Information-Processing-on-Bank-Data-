@@ -1,7 +1,7 @@
 <h1>Automated Information Processsing (ETL) on GDP Data</h1>
 
 <h2>Description</h2>
-An automated data pipeline, primarily ETL, that processes data from one of the biggest banks. The data is collected and undergoes transformations including cleaning and formating before being stored in a database for querying to be analyzed. The entire pipeline automated to repeat quarterly in a year, thereafter the ETL process is verified.  
+An automated data pipeline, ETL, that processes GDP data for a variety of countries. The data is collected from a website using Web Scraping through BeautifulSoup and staged in a dataframe. Thereafter, it undergoes transformations which include cleaning and formating before being stored in a database for querying to be analyzed. The entire pipeline is also logged as a process for tracking.  
 <br />
 
 
@@ -16,5 +16,5 @@ An automated data pipeline, primarily ETL, that processes data from one of the b
 
 <h2>Environments Used </h2>
 
-- <b>Visual Studio Code</b> 
+- <b>Visual Studio Code</b>
 
