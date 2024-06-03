@@ -1,4 +1,4 @@
-<h1>Automated Information Processsing (ETL) on Bank Data</h1>
+<h1>Automated Information Processsing (ETL) on GDP Data</h1>
 
 <h2>Description</h2>
 An automated data pipeline, primarily ETL, that processes data from one of the biggest banks. The data is collected and undergoes transformations including cleaning and formating before being stored in a database for querying to be analyzed. The entire pipeline automated to repeat quarterly in a year, thereafter the ETL process is verified.  
